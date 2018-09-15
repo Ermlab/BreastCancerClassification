@@ -33,7 +33,29 @@ For the project, I used a breast cancer dataset from Wisconsin University.
 The dataset contains 569 samples and 30 features computed from digital images.
 Each sample identifies parameters of each patient.
 
-## Useful repositories
+## Vizualization Examples
+
+* PCA
+![PCA](Plots/pcavariancewithoutstd.png)
+
+![PCA2](Plots/pcavariancewithstd.png)
+
+* Decision Tree
+
+![DT](Plots/graphviz.png)
+
+* Confusion Matrix
+
+![CM](Plots/confusionmatrix.png)
+
+* Roc Curve
+
+![ROC](Plots/roccurve.png)
+
+* Correlation Map
+
+![CRM](corrmap.png)
+
 
 ## Contact & Blog post
 * Main Autor [Szymon Płotka](https://github.com/simongeek)
