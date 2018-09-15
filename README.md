@@ -35,26 +35,29 @@ Each sample identifies parameters of each patient.
 
 ## Vizualization Examples
 
-* PCA
+#### PCA without Std
+
 ![PCA](Plots/pcavariancewithoutstd.png)
+
+#### PCA with Std
 
 ![PCA2](Plots/pcavariancewithstd.png)
 
-* Decision Tree
+#### Decision Tree
 
 ![DT](Plots/graphviz.png)
 
-* Confusion Matrix
+#### Confusion Matrix
 
 ![CM](Plots/confusionmatrix.png)
 
-* Roc Curve
+#### Roc Curve
 
 ![ROC](Plots/roccurve.png)
 
-* Correlation Map
+#### Correlation Map
 
-![CRM](corrmap.png)
+![CRM](Plots/corrmap.png)
 
 
 ## Contact & Blog post
